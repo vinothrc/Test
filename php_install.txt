@@ -1,0 +1,7 @@
+#Install PHP version 5.6
+#Add the Ondrej PHP repository
+sudo add-apt-repository ppa:ondrej/php
+#Enter
+sudo apt-get update
+
+sudo apt install php5.6 -y
